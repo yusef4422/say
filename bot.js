@@ -1,7 +1,7 @@
 var { Client } = require("discord.js");
 var client = new Client();
 var {messageID, roleName} = {
-    "messageID": "576878508018761728",
+    "messageID": "580445038492909598",
     "roleName": "-Members."
 };
 client.login(process.env.BOT_TOKEN).then(() => {
