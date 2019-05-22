@@ -59,12 +59,10 @@ message.channel.send(avtEmbed);
 } // Julian
 }); // Codes - Toxic Codes
  const bannedwords = [
-    "كل زق",
     "كس امك",
     "كسمك",
     "انيكامك",
     "بلعن امك",
-    "علا زبي"
     "نصابين"
     "نصاب"
   ];
