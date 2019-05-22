@@ -63,8 +63,10 @@ message.channel.send(avtEmbed);
     "كسمك",
     "انيكامك",
     "بلعن امك",
-    "نصابين"
-    "نصاب"
+    "كل زق",
+    "نصابين",
+    "نصاب",
+
   ];
 
 client.on('message',  message => {
