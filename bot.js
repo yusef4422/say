@@ -65,7 +65,6 @@ message.channel.send(avtEmbed);
     "بلعن امك",
     "كل زق",
     "نصابين",
-    "نصاب",
 
   ];
 
